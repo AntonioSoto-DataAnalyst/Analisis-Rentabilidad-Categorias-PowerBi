@@ -17,7 +17,7 @@ Esquema estrella:
 
 - DimCliente
 
-(Agregar imagen del modelo)
+![Modelo Estrella](images/modelo-estrella.png)
 
 ## 📈 Métricas DAX implementadas
 
